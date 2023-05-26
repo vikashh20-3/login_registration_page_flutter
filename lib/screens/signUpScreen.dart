@@ -11,7 +11,7 @@ import 'package:nitch/homeScreen.dart';
 
 
 
-import '../screens/forgotPasswordScreen.dart';
+
 import 'loginScreen.dart';
 
 class SignUpScreen extends StatefulWidget {
